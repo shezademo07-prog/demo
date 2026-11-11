@@ -1,2 +1,1 @@
-# My Git Demo
-This is Git.
+Conflicting text written directly on main
